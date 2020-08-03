@@ -1,0 +1,29 @@
+{
+  "name": "private-blockchain",
+  "version": "1.0.0",
+  "description": "A simplified private blockchain",
+  "main": "levelSandbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Radesh-kumar/private-block-chain"
+  },
+  "keywords": [
+    "javascript",
+    "leveldb",
+    "blockchain",
+    "udacity"
+  ],
+  "author": "brenj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Radesh-kumar/private-block-chain/issues"
+  },
+  "homepage": "https://github.com/Radesh-kumar/private-block-chain#readme",
+  "dependencies": {
+    "crypto-js": "4.0.0",
+    "level": "6.0.1"
+  }
+}
