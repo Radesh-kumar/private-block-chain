@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Radesh-kumar/private-block-chain#readme",
   "dependencies": {
-    "crypto-js": "4.0.0",
+    "crypto-js": "4.2.0",
     "level": "6.0.1"
   }
 }
